@@ -1,0 +1,4 @@
+﻿  Multiplication Table.cpp
+C:\Users\USER\Documents\GitHub\programmingCJUAE101\5th_week\Prob_No.1\Prob_No.1\Multiplication Table.cpp(14,32): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\USER\Documents\GitHub\programmingCJUAE101\5th_week\Prob_No.1\Prob_No.1\Multiplication Table.cpp(14,32): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 3개가 제공되었습니다.
+  Prob_No.1.vcxproj -> C:\Users\USER\Documents\GitHub\programmingCJUAE101\5th_week\Prob_No.1\Prob_No.1\x64\Debug\Prob_No.1.exe
