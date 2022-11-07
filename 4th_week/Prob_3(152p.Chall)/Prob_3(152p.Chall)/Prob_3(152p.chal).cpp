@@ -12,7 +12,7 @@ int main(void)
 
 	printf("Input your arithmetic operation : \n");
 	scanf_s("%d %c %d", &nA, &chOper, 1, &nB);
-
+	
 	switch (chOper)
 	{
 	case '+':
